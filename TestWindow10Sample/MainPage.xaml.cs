@@ -26,5 +26,8 @@ namespace TestWindow10Sample
         {
             this.InitializeComponent();
         }
+
+
+        ////This is testing commit change
     }
 }
